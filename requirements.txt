@@ -1,10 +1,10 @@
 
 # -- --------------------------------------------------------------------------------------------------- -- #
-# -- project: Laboratorio 1: Inversión de Capital                                                        -- #
+# -- project: Lab 1.                                                                                     -- #
 # -- script: requirements.txt : text file with the required libraries for the project                    -- #
 # -- author: diegolazareno                                                                               -- #
 # -- license: GPL-3.0 License                                                                            -- #
-# -- repository: https://github.com/diegolazareno/MyST_Laboratorio1_DALazareno                           -- #
+# -- repository: https://github.com/diegolazareno/MaTS_Lab1_DALazareno                                   -- #
 # -- --------------------------------------------------------------------------------------------------- -- #
 
 pandas>=1.1.0

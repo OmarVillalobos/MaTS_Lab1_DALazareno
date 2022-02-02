@@ -1,0 +1,14 @@
+
+# -- --------------------------------------------------------------------------------------------------- -- #
+# -- project: Laboratorio 1: Inversión de Capital                                                        -- #
+# -- script: requirements.txt : text file with the required libraries for the project                    -- #
+# -- author: diegolazareno                                                                               -- #
+# -- license: GPL-3.0 License                                                                            -- #
+# -- repository: https://github.com/diegolazareno/MyST_Laboratorio1_DALazareno                           -- #
+# -- --------------------------------------------------------------------------------------------------- -- #
+
+pandas>=1.1.0
+numpy>=1.19.1
+jupyter>=1.0.0
+chart_studio>=1.1
+plotly>=4.14

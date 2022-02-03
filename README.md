@@ -1,7 +1,7 @@
 # MaTS_Lab1_DALazareno
 
 ## Description
-*The main goal of this repository is to answer the next question: What investment strategy would you follow if you were about to invest 1 million pesos?. We will backtest passive and active investment strategies with the NAFTRAC index for different time periods*
+*The main goal of this repository is to answer the next question: What investment strategy would you follow if you were about to invest 1 million pesos? We will backtest passive and active investment strategies with the NAFTRAC index for different time periods.*
 
 ## Install dependencies
 
